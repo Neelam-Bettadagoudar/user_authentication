@@ -13,6 +13,7 @@ password (5 < password length > 16)
               one lowercase character 
 
 Stage : 2
+Storage
 
 Once the username and password are validated, store those values in a file
 
